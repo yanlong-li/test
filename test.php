@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /**
- * 枚举测试
+ * 枚举测试12312 枚举测试3
  * Class emu 枚举类
  */
 class emu
