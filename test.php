@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /**12321
- * 枚举测试24123
+ * 枚举测试241231231
  * Class emu 枚举类
  */
 class emu
